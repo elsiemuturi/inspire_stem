@@ -1,0 +1,7 @@
+print("My name is Elsie")
+print("I am 18 years old")
+print("I come from Membley")
+print("I like playing piano and sleeping")
+print("---------------------------")
+print("***************************")
+print("###########################")
