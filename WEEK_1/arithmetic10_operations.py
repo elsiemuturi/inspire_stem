@@ -1,6 +1,6 @@
 #program to show sum and averageof 10 numbers
 #Name: Elsie
- 
+#Date:20/02/2024
  first_number = 1
  second_number = 2
  third_number = 3
