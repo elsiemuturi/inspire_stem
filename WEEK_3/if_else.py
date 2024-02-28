@@ -16,9 +16,9 @@ if home_county == "Embu" or home_county =="Kisumu":
 
 grade = int(input("enter grade: "))
 print("enter grade: " ,grade)
-if grade >= 84 and grade <=90:
+if grade >= 84 and grade <=90 :
     print("You get cash")
-elif grade >=50 and grade <=83:
+elif grade >=50 and grade <=83 :
     print("You win a math set")
 else grade <50 :
     print("Repeat math set")

@@ -50,9 +50,7 @@ print(subject.split(","))
 
 age = 30
 height = 165
-print("I am {0} years old and {1} height" ,.format{age , height})
-
-
+print("I am {0} years old and {1} height" .format{age,height})
 
 
 
