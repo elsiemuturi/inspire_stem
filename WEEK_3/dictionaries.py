@@ -14,7 +14,7 @@ print(laptop["size"])
 del laptop["colour"]
 print(laptop)
 
-laptop_siz = laptop.copy
+laptop_siz = laptop.copy()
 print(laptop_siz)
 """
 for key,value in laptop.items():

@@ -1,8 +1,9 @@
 friends = ["Sharon" , "Halona" ,"Blessed" , "Laura" , "Vero"]
 for friend in friends:
     print(friend)
-
-enemies = friends[:]#how to copy one list into another
+    
+#how to copy one list into another
+enemies = friends[:]
 print(enemies)
 
 fruits = ["strawberry","kiwi","banana","mango","apple","guava"]
